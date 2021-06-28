@@ -1,0 +1,22 @@
+YOUR RESULT
+
+		**VISVESVARAYAN TECHNOLOGICAL UNIVERSITY**
+
+		 College:	Ballari Institute Of Technology And Management
+
+
+		 Name:H M SAGAR		 USN:3BR28ME005
+
+		 Subcode	IA	EXA	Total
+		 18ME51		 22	37	59
+		 18ME52		 21	12	33*
+		 18ME53		 33	22	55
+		 18ME54		 23	12	35*
+		 18ME55		 23	22	45
+		 18ME56		 34	33	67
+		 18ME57		 35	23	58
+		 18ME58		 33	23	56
+		 18CV59		 32	33	65
+
+		 Grand Total:	473	Result: 	FAIL
+		Total Percentage : 52.0%

@@ -1,0 +1,22 @@
+					YOUR RESULT
+
+		**VISVESVARAYAN TECHNOLOGICAL UNIVERSITY**
+
+		 College:	Ballari Institute Of Technology And Management
+
+
+		 Name:SHARAN		 USN:3BR18ME009
+
+		 Subcode	IA	EXA	Total
+		 18ME51		 33	23	56
+		 18ME52		 34	24	58
+		 18ME53		 34	24	58
+		 18ME54		 35	25	60
+		 18ME55		 33	60	93
+		 18ME56		 32	34	66
+		 18ME57		 32	34	66
+		 18ME58		 31	43	74
+		 18CV59		 31	33	64
+
+		 Grand Total:	595	Result:	PASS
+		Total Percentage : 66.0%

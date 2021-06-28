@@ -1,0 +1,23 @@
+
+					YOUR RESULT
+
+		**VISVESVARAYAN TECHNOLOGICAL UNIVERSITY**
+
+		 College:	Ballari Institute Of Technology And Management
+
+
+		 Name:PRAVEEN		 USN:3BR18ME004
+
+		 Subcode	IA	EXA	Total
+		 18ME51		 34	33	67
+		 18ME52		 33	43	76
+		 18ME53		 32	44	76
+		 18ME54		 27	45	72
+		 18ME55		 28	54	82
+		 18ME56		 39	32	71
+		 18ME57		 34	23	57
+		 18ME58		 40	37	77
+		 18CV59		 31	50	81
+
+		 Grand Total:	659	Result:	PASS
+		Total Percentage : 73.0%

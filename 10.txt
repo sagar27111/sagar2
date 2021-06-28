@@ -1,0 +1,22 @@
+					YOUR RESULT
+
+		**VISVESVARAYAN TECHNOLOGICAL UNIVERSITY**
+
+		 College:	Ballari Institute Of Technology And Management
+
+
+		 Name:SHREEEDAR		 USN:3BR18ME010
+
+		 Subcode	IA	EXA	Total
+		 18ME51		 23	34	57
+		 18ME52		 40	36	76
+		 18ME53		 23	37	60
+		 18ME54		 35	28	63
+		 18ME55		 36	36	72
+		 18ME56		 37	33	70
+		 18ME57		 32	40	72
+		 18ME58		 31	44	75
+		 18CV59		 28	24	52
+
+		 Grand Total:	597	Result:	PASS
+		Total Percentage : 66.0%

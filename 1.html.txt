@@ -1,0 +1,22 @@
+					YOUR RESULT
+
+		**VISVESVARAYAN TECHNOLOGICAL UNIVERSITY**
+
+		 College:	Ballari Institute Of Technology And Management
+
+
+		 Name:KESAVA		 USN:3BR18ME001
+
+		 Subcode	IA	EXA	Total
+		 18ME51		 22	43	65
+		 18ME52		 32	42	74
+		 18ME53		 38	44	82
+		 18ME54		 34	42	76
+		 18ME55		 35	45	80
+		 18ME56		 32	41	73
+		 18ME57		 37	48	85
+		 18ME58		 34	28	62
+		 18CV59		 31	42	73
+
+		 Grand Total:	670	Result:	PASS
+		Total Percentage : 74.0%

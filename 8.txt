@@ -1,0 +1,22 @@
+					YOUR RESULT
+
+		**VISVESVARAYAN TECHNOLOGICAL UNIVERSITY**
+
+		 College:	Ballari Institute Of Technology And Management
+
+
+		 Name:MANOHAR K		 USN:3BR18ME008
+
+		 Subcode	IA	EXA	Total
+		 18ME51		 32	37	69
+		 18ME52		 40	33	73
+		 18ME53		 12	23	35*
+		 18ME54		 33	23	56
+		 18ME55		 34	44	78
+		 18ME56		 33	54	87
+		 18ME57		 32	34	66
+		 18ME58		 30	34	64
+		 18CV59		 35	31	66
+
+		 Grand Total:	594	Result: 	FAIL
+		Total Percentage : 66.0%

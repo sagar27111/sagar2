@@ -1,0 +1,23 @@
+
+					YOUR RESULT
+
+		**VISVESVARAYAN TECHNOLOGICAL UNIVERSITY**
+
+		 College:	Ballari Institute Of Technology And Management
+
+
+		 Name:PAVAN		 USN:3BR18ME003
+
+		 Subcode	IA	EXA	Total
+		 18ME51		 32	43	75
+		 18ME52		 35	23	58
+		 18ME53		 36	44	80
+		 18ME54		 37	43	80
+		 18ME55		 38	43	81
+		 18ME56		 33	33	66
+		 18ME57		 31	32	63
+		 18ME58		 34	32	66
+		 18CV59		 39	37	76
+
+		 Grand Total:	645	Result:	PASS
+		Total Percentage : 71.0%

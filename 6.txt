@@ -1,0 +1,22 @@
+	YOUR RESULT
+
+		**VISVESVARAYAN TECHNOLOGICAL UNIVERSITY**
+
+		 College:	Ballari Institute Of Technology And Management
+
+
+		 Name:CHANDRASHEKAR		 USN:3BR18ME006
+
+		 Subcode	IA	EXA	Total
+		 18ME51		 23	43	66
+		 18ME52		 32	43	75
+		 18ME53		 32	55	87
+		 18ME54		 32	60	92
+		 18ME55		 33	41	74
+		 18ME56		 40	23	63
+		 18ME57		 33	34	67
+		 18ME58		 33	34	67
+		 18CV59		 33	44	77
+
+		 Grand Total:	668	Result:	PASS
+		Total Percentage : 74.0%

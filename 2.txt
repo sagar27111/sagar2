@@ -1,0 +1,22 @@
+
+
+		**VISVESVARAYAN TECHNOLOGICAL UNIVERSITY**
+
+		 College:	Ballari Institute Of Technology And Management
+
+
+		 Name:PRATHAP		 USN:3BR18ME002
+
+		 Subcode	IA	EXA	Total
+		 18ME51		 33	43	76
+		 18ME52		 33	42	75
+		 18ME53		 33	41	74
+		 18ME54		 33	42	75
+		 18ME55		 33	44	77
+		 18ME56		 33	42	75
+		 18ME57		 33	40	73
+		 18ME58		 33	33	66
+		 18CV59		 33	34	67
+
+		 Grand Total:	658	Result:	PASS
+		Total Percentage : 73.0%

@@ -1,0 +1,23 @@
+
+					YOUR RESULT
+
+		**VISVESVARAYAN TECHNOLOGICAL UNIVERSITY**
+
+		 College:	Ballari Institute Of Technology And Management
+
+
+		 Name:BASVARAJ 		 USN:3BR18ME007
+
+		 Subcode	IA	EXA	Total
+		 18ME51		 33	22	55
+		 18ME52		 21	32	53
+		 18ME53		 23	34	57
+		 18ME54		 24	22	46
+		 18ME55		 15	12	27*
+		 18ME56		 12	11	23*
+		 18ME57		 33	34	67
+		 18ME58		 32	35	67
+		 18CV59		 32	34	66
+
+		 Grand Total:	461	Result: 	FAIL
+		Total Percentage : 51.0%
